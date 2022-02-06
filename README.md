@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=robinhattori224.robinhattori224&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Montreal University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into FullStack & Blockchain Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduate in Computer Science 🎓 from Montreal University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies. I'm currently into FullStack & Blockchain Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 Like My Work?
 
@@ -19,7 +19,7 @@ Like My Work?
 
 - 👾 &nbsp; I have lots of experience of Nodejs, Express, React, Vue.js, <br /> Graphql, Mongodb, Javascript/Typescript, HTML5, etc.
 - 🛠 &nbsp; I’m currently working on Blockchain Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/robinhattori224).
+- &nbsp; Most of my projects are available on [Github](https://github.com/robinhattori224).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/robinhattori224/robinhattori224/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: anyrobin224@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/robinhattori224/robinhattori224/blob/master/resume.pdf).
